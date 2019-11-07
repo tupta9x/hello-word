@@ -1,0 +1,8 @@
+//them tat ca cac file hien tai trong local rectory
+git add .
+//tao 1 commit moi voi ten la "name-title name-author" //dat cai qq gi cung duoc
+git commit -m "message_commit"
+//day code len github
+git push
+//lay code tren github ve
+git pull
